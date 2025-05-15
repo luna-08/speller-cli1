@@ -1,0 +1,14 @@
+/Users/lucyallegra/Desktop/code/C#/final_project/bin/Debug/net8.0/final_project
+/Users/lucyallegra/Desktop/code/C#/final_project/bin/Debug/net8.0/final_project.deps.json
+/Users/lucyallegra/Desktop/code/C#/final_project/bin/Debug/net8.0/final_project.runtimeconfig.json
+/Users/lucyallegra/Desktop/code/C#/final_project/bin/Debug/net8.0/final_project.dll
+/Users/lucyallegra/Desktop/code/C#/final_project/bin/Debug/net8.0/final_project.pdb
+/Users/lucyallegra/Desktop/code/C#/final_project/obj/Debug/net8.0/final_project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucyallegra/Desktop/code/C#/final_project/obj/Debug/net8.0/final_project.AssemblyInfoInputs.cache
+/Users/lucyallegra/Desktop/code/C#/final_project/obj/Debug/net8.0/final_project.AssemblyInfo.cs
+/Users/lucyallegra/Desktop/code/C#/final_project/obj/Debug/net8.0/final_project.csproj.CoreCompileInputs.cache
+/Users/lucyallegra/Desktop/code/C#/final_project/obj/Debug/net8.0/final_project.dll
+/Users/lucyallegra/Desktop/code/C#/final_project/obj/Debug/net8.0/refint/final_project.dll
+/Users/lucyallegra/Desktop/code/C#/final_project/obj/Debug/net8.0/final_project.pdb
+/Users/lucyallegra/Desktop/code/C#/final_project/obj/Debug/net8.0/final_project.genruntimeconfig.cache
+/Users/lucyallegra/Desktop/code/C#/final_project/obj/Debug/net8.0/ref/final_project.dll
