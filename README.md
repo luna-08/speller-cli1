@@ -1,6 +1,6 @@
 # Speller CLI
 
-Speller CLI est une application console en C# qui permet :
+Speller CLI est une application console en C# permettant :
 - de corriger l’orthographe/grammaire d’un texte en français,
 - de traduire un texte en anglais (US ou UK),
 - de générer une page HTML stylisée à partir d’un texte.
@@ -8,7 +8,8 @@ Speller CLI est une application console en C# qui permet :
 ## Prérequis
 
 - [.NET 6 ou supérieur](https://dotnet.microsoft.com/download)
-- (Optionnel) Une clé API OpenAI pour la correction et la traduction
+- Une clé API OpenAI pour la correction et la traduction
+- un éditeur de texte
 
 ## Installation
 
@@ -23,39 +24,21 @@ cd final_project
 
 Compile et lance l’application :
 
-```bash
 dotnet run
-```
+
 
 Suis les instructions dans le terminal pour choisir une option et entrer ton texte.
 
 ### Génération de page HTML
 
 Quand tu choisis l’option 3, un fichier `resultat.html` est créé dans le dossier du projet.  
-Ouvre-le dans ton navigateur pour voir le résultat.
+Et il s'ouvrira automatiquement sur ton navigateur
 
-## Structure du projet
 
-```
-final_project/
-│
-├── Program.cs
-├── README.md
-├── Services/
-│   ├── GrammarCorrectionServices.cs
-│   ├── TranslationServices.cs
-│   └── HtmlGenerationService.cs
-└── resultat.html
-```
+## API OpenAI 
 
-## API OpenAI (optionnel)
+Pour utiliser la correction et la traduction automatiques, il faudrait ajouter une clé API OpenAI dans une variable d’environnement :
 
-Pour utiliser la correction et la traduction automatiques, ajoute ta clé API OpenAI dans une variable d’environnement :
 
-```bash
 export OPENAI_API_KEY=sk-...
-```
 
-## Licence
-
-MIT
